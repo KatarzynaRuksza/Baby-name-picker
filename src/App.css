@@ -1,5 +1,24 @@
-.App {
+body {
+  width: 80%;
+  margin-left: 10%;
+}
+.bg-image {
+  background-image: url("./background.jpg");
+  height: auto;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.female {
+  background-color: rgba(139, 25, 122, 0.558);
+}
+.male {
+  background-color: #1c975bb4;
+}
+.App-content {
   text-align: center;
+  font-size: 30px;
 }
 
 .App-logo {

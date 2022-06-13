@@ -16,9 +16,20 @@ body {
 .male {
   background-color: #1c975bb4;
 }
+.search-box {
+  width: 50%;
+  height: 45px;
+  background-color: rgba(139, 25, 122, 0.558);
+  border-color: #1c975bb4;
+  font-size: 25px;
+  border-style: groove;
+  border-width: 5px;
+  margin-top: 2%;
+}
 .App-content {
   text-align: center;
   font-size: 30px;
+  margin-top: 5%;
 }
 
 .App-logo {

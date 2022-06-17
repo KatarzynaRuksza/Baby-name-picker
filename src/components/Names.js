@@ -56,7 +56,7 @@ const Names = () => {
                     {name.name}
                   </span>
                 );
-              }
+              } else return null;
             })}
         </div>
       </div>
